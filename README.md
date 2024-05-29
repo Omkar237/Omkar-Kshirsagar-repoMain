@@ -1,4 +1,4 @@
-I have created  the backend for a hotel management system with three types of users: Users, Hotel Staff, and Hotel Admin. The backend provides REST API and GraphQL endpoints to perform CRUD operations, using different databases and ORM/ODM solutions.
+I have created  the backend for a hotel management system with three types of users: Users, Hotel Staff, and Hotel Admin. The backend provides REST API and GraphQL endpoints to perform CRUD operations, using different databases and ORM/ODM solutions.And i have used Thunderclient as a testing tool for rest api and graphql api
 
 1] Technologies Used
 Express.js: Web framework for Node.js.
