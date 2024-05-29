@@ -15,5 +15,4 @@ const staffmodel = db.sequelize.define("hotelStaffInfo", {
     email: DataTypes.STRING,
 });
 
-staffmodel.hasMany(hotelmodelinfo, {as: 'hotels'});
 module.exports = staffmodel;
